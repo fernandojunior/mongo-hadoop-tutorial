@@ -8,6 +8,5 @@ Versions needed to make the integration:
 - MongoDB 3.0.6
 - [MongoDB Java Driver](http://mvnrepository.com/artifact/org.mongodb/mongo-java-driver), 3.1.1
 - [MongoDB Connector for Hadoop](http://mvnrepository.com/artifact/org.mongodb.mongo-hadoop/), 1.4.2
-        - Main libs: mongo-hadoop-core, mongo-hadoop-streaming
-        
-
+    - Main libs: mongo-hadoop-core, mongo-hadoop-streaming
+     
