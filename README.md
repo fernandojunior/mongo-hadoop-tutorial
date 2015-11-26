@@ -19,3 +19,8 @@ Libraries needed to checkout the MapReduce examples written in Java:
 - commons-logging-1.1.3.jar
 - hadoop-mapreduce-client-core-2.6.0.jar
 
+## HOW-TOs
+
+- [Install Hadoop](https://gist.github.com/fernandojunior/35d3b17e4fbd4665f4be)
+- [Install MongoDB](https://gist.github.com/fernandojunior/8c7bfc720e51f69645da)
+- [MongoDB & Hadoop connection](https://gist.github.com/fernandojunior/1231cba3325cdca6239d)
