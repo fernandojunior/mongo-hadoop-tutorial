@@ -24,3 +24,12 @@ Libraries needed to checkout the MapReduce examples written in Java:
 - [Install Hadoop](https://gist.github.com/fernandojunior/35d3b17e4fbd4665f4be)
 - [Install MongoDB](https://gist.github.com/fernandojunior/8c7bfc720e51f69645da)
 - [MongoDB & Hadoop connection](https://gist.github.com/fernandojunior/1231cba3325cdca6239d)
+
+## References
+- https://docs.mongodb.org/master/administration/install-on-linux/
+- https://hadoop.apache.org/docs/r2.6.0/
+- https://github.com/mongodb/mongo-hadoop
+
+## License
+
+Released under The MIT License.
